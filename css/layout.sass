@@ -1,0 +1,332 @@
+@import 'responsive'
+
+		
+::-webkit-scrollbar
+	width: 7px
+	height: 7px
+
+::-webkit-scrollbar-thumb
+	background: #555
+	border-radius: 0
+	&:active
+		background: #232323
+	&:hover
+		background: #626262
+		cursor: pointer
+
+::-webkit-scrollbar-track
+	background: #a2a2a2
+
+// Base Styles
+*
+	padding: 0
+	margin: 0
+	box-sizing: border-box
+
+
+body
+	font-family: "Open Sans", sans-serif
+
+.content
+	z-index: 0
+	position: relative
+	background: white 
+	padding-top : 1px
+	margin-bottom: 600px
+	overflow-x: hidden
+	
+
+
+h1
+	text-align: center
+
+img
+	max-width: 100%
+
+// Parallax
+.bird-box
+	position: relative
+	height: 770px
+	background:
+		image: url(/assets/img/header/bird-bg.jpg)
+		size: auto 800px
+		position: top center
+		attachment: fixed
+	overflow: hidden
+   
+
+	.logo
+		height: 100px
+		width: 100%
+		background:
+			image: url(/assets/img/header/black-bird-logo.svg)
+			position: top left
+			repeat: no-repeat
+			position: absolute
+		top: 50%
+		margin-top: 12%
+		margin-left: 50%
+		
+		
+
+	.fore-waifu
+		width: 960px
+		height: 1024px
+		background:
+			image: url(/assets/img/header/model38.png)
+			repeat: no-repeat
+			position: right bottom
+		position: absolute
+		left: 15%
+		margin-left: -480px
+		top: 0px
+
+	.back-bird
+		width: 960px
+		height: 298px
+		background:
+			image: url(/assets/img/header/back-bird.png)
+			repeat: no-repeat
+			position: top left
+		position: absolute
+		left: 50%
+		top: 0%
+		margin-left: -480px
+
+.container
+	p
+		font-size: 1.6em 
+// Model Grid
+
+.image-gallery
+	figure
+		margin-bottom: 20px
+		position: relative
+		opacity: 0
+		transform: translateX(50px)
+		transition: all 0.3s ease-in-out
+		
+		
+		&.is-showing
+			opacity: 1
+			transform: translateX(0px)
+			
+		figcaption
+			text-align: center
+
+.horizontal-rule
+	width: 50%
+	position: relative
+	left: 25%
+
+
+
+.large-window-1.periscope-1
+	height: 400px
+	width: 400px
+	border-radius: 50%
+	background:
+		image: url(/assets/img/models/model2.jpg)
+		position: center -200px 
+		repeat: repeat-y
+		attachment: fixed
+	position: relative
+	padding-top: -300px
+	margin-left: -200px  
+	left: 50%
+	
+	+desktop
+		height: 800px
+		width: 800px
+		margin-left: -400px
+	.window-tint-1
+		background-color: rgba(0,0,0,0.5)
+		position: absolute
+		top: 0
+		left: 0
+		right: 0
+		bottom: 0
+		border-radius: 50% 
+		justify-content: center 
+		align-items: center
+
+	.promo-text
+		color: white
+		font-weight: 100
+		font-size: 42px 
+		margin-left: -150px
+		position: relative
+		left: 50%
+		margin-top: 30% 
+	
+		strong
+			display: block
+			font-size: 24px 
+			margin-left: 50px 
+		span
+			font:
+				weight: 300px
+				size: 18px
+				style: italic
+			color: rgba(255,255,255,0.6)
+		.window-cta
+			font-size: 20px
+			text-decoration: none
+			color: white
+			border: 1px solid white
+			padding: 10px 20px
+			transition: all 0.3s ease-in-out
+			margin-left: 80px 
+
+			&:hover
+				background: white
+				color: black
+	        
+.large-window-2.periscope-2
+	@extend .large-window-1.periscope-1
+	background-image: url(/assets/img/models/model17.jpg)
+	
+	.window-tint-2
+		@extend .window-tint-1
+
+.large-window-3.periscope-3
+	@extend .large-window-1.periscope-1
+	background-image: url(/assets/img/models/model35.jpg)
+	
+	+desktop
+		background-position: top left
+		margin-left: 200px
+		left: 0px
+  	
+	.window-tint-3
+		@extend .window-tint-1
+
+.large-window-4.periscope-4
+	@extend .large-window-1.periscope-1
+	background-image: url(/assets/img/models/model5.jpg)
+	+desktop 
+		background-position: top right
+		margin-left: 300px
+	
+	.window-tint-4
+		@extend .window-tint-1
+ 
+
+.vertical-rule
+	border-right: 1px solid #ccc
+	height: 200px
+	width: 0px
+	position: relative
+	margin-top: 15px
+	margin-bottom: 15px  
+	left: 50%
+	+desktop
+		height: 400px
+
+.diagonal-rule
+	@extend .vertical-rule
+	+desktop
+		margin-left: -200px
+		transform: rotate(45deg)
+		height: 500px
+
+.diagonal-rule-inverse
+	@extend .vertical-rule
+	+desktop
+		transform: rotate(-45deg)
+		height: 500px
+
+
+
+footer
+	background: #232323
+	color: white
+	padding-bottom: 10px
+	position: fixed
+	bottom: 0 
+	width: 100%
+	z-index: -1
+	
+	
+	h3
+		color: white
+		text-align: center
+		
+
+	.circle-downarrow
+		width: 60px
+		height: 60px
+		border-radius: 50%
+		position: relative
+		top: 0px
+		margin-left: -30px
+		left: 50%
+		background: 
+			image: url(/assets/img/downarrow-circle.svg)
+		top: 0px
+		+tabletAbove
+			width: 100px
+			height: 100px
+			margin-left: -150px
+		
+		
+	.social-media-links
+		position: relative
+		left: 15%
+		margin-left: -50px
+		top: 10%
+		+tabletAbove
+			left: 30%
+
+		$media-logo: (fb-logo,twitter-logo,pinterest-logo,instagram-logo)
+		@each $logo in $media-logo 
+			.#{$logo}
+				background-image: url(/assets/img/#{$logo}.png)
+				background-repeat: no-repeat
+				height: 128px
+				width: 128px
+				display: inline-block
+				margin-left: 15px
+				+desktop
+					height: 200px
+					width: 200px
+				
+		@each $logo in $media-logo
+			.#{$logo}:hover
+				background-image: url(/assets/img/#{$logo}-hover.png)
+				background-repeat: no-repeat
+				transform: scale(1.1)
+				transition: scale 300ms linear
+				
+				
+				
+		
+	
+	input
+		width: 300px
+		color: black
+		&:hover
+			border-bottom: 5px solid #FFD700 
+			   
+	.newsletter
+		z-index: 1
+		position: relative
+		margin-left: 30%
+		margin-top: -30px 
+		+desktop
+			margin-left: 45%
+			
+		+desktop
+			clear: both
+			position: relative
+			left: -200px
+
+		p
+			font-size: 1.2em
+		
+		h5
+			color: gold
+		
+		.btn-lg
+			background-color: #FFD700 
+			color: black    

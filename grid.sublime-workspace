@@ -1,0 +1,2566 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scrollbar",
+				"scrollbar	Chervil Scrollbar (SASS)"
+			],
+			[
+				"sass",
+				"sassDestPath〔variable〕"
+			],
+			[
+				"sas",
+				"sassImportPath"
+			],
+			[
+				"perisco",
+				"periscope-1"
+			],
+			[
+				"large-w",
+				"large-window-1"
+			],
+			[
+				"scroll",
+				"scrollbar	Chervil Scrollbar (SASS)"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"back",
+				"background	styl"
+			],
+			[
+				"bg",
+				"background	styl"
+			],
+			[
+				"container",
+				"container-fluid	 styles.css"
+			],
+			[
+				"html",
+				"html5+bootstrap+jquery template	 Personal Template"
+			],
+			[
+				"ht",
+				"html5 Personal Template	 Web Template (html+bootstrap+jquery)"
+			],
+			[
+				"htm",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"border-radi",
+				"border-radius"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"video",
+				"video	<video>"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"pant",
+				"pantoneRGB:323C	PANTONE 323C (RGB)"
+			],
+			[
+				"backgound-cl",
+				"webkit-background-clip"
+			],
+			[
+				"include",
+				"include	+include - Sass syntax"
+			],
+			[
+				"clear",
+				"clearf	Clearfix"
+			],
+			[
+				"panto",
+				"pantoneHSL:316C	PANTONE 316C (HSL)"
+			],
+			[
+				"pantone",
+				"pantoneHSL:101C	PANTONE 101C (HSL)"
+			],
+			[
+				"af",
+				"after	 pseudo selector"
+			],
+			[
+				"pan",
+				"pantoneHSL:318C	PANTONE 318C (HSL)"
+			],
+			[
+				"panton",
+				"pantoneRGB:100C	PANTONE 100C (RGB)"
+			],
+			[
+				"license",
+				"license	MIT License"
+			],
+			[
+				"readme",
+				"readme	README - default"
+			],
+			[
+				"cty",
+				"ctypography	CSS.ctypography"
+			],
+			[
+				"rea",
+				"react-dom"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"vide",
+				"video	<video>"
+			],
+			[
+				"MARGI",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"backgrou",
+				"background-repeat"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"links",
+				"links	link - stylesheet"
+			],
+			[
+				"link",
+				"linki	link - icon"
+			],
+			[
+				"nav",
+				"navbar	navbar"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"bac",
+				"background-image: 〔property〕"
+			],
+			[
+				"Jeff",
+				"JeffreyZammit"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"Web",
+				"Webdev"
+			],
+			[
+				"Read",
+				"ReadingList"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"border-bottom",
+				"border-bottom-style"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"wr",
+				"writeHead"
+			],
+			[
+				"h2",
+				"h2	Tag"
+			],
+			[
+				"social",
+				"socialmedia"
+			],
+			[
+				"visib",
+				"visibility"
+			],
+			[
+				"scrollT",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"Shawn",
+				"ShawnCauchi"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"remov",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"divi",
+				"divider2"
+			],
+			[
+				"mouse",
+				"mouseenter〔function〕"
+			],
+			[
+				"Sl",
+				"SliderDrawings"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"siz",
+				"box-sizing"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"fo",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"TEXT",
+				"text-align"
+			],
+			[
+				"has",
+				"hasClass〔function〕"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"t",
+				"th	<th>"
+			],
+			[
+				"cor",
+				"correlate"
+			],
+			[
+				"r",
+				"round〔function〕"
+			],
+			[
+				"acces",
+				"accessoryspending"
+			],
+			[
+				"replace",
+				"replaceWith	.replaceWith()"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"prev",
+				"prevAll	.prevAll()"
+			],
+			[
+				"get",
+				"get	.get()"
+			],
+			[
+				"dbl",
+				"dblclick"
+			],
+			[
+				"mouseout",
+				"mouseout"
+			],
+			[
+				"widt",
+				"min-width"
+			],
+			[
+				"fadeT",
+				"fadeTo"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"remove",
+				"removeData	.removeData()"
+			],
+			[
+				"inse",
+				"insertAfter〔function〕"
+			],
+			[
+				"mouseleave",
+				"mouseleave"
+			],
+			[
+				"mouseov",
+				"mouseover"
+			],
+			[
+				"mouseent",
+				"mouseenter"
+			],
+			[
+				"mouselea",
+				"mouseleave"
+			],
+			[
+				"rem",
+				"removeClass〔function〕"
+			],
+			[
+				"wrap",
+				"wrapInner	.wrapInner()"
+			],
+			[
+				"insert",
+				"insertBefore	.insertBefore()"
+			],
+			[
+				"righ",
+				"padding-right"
+			],
+			[
+				"animation",
+				"animation-delay"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"g",
+				"get	$.get()"
+			],
+			[
+				"inser",
+				"insertAfter	.insertAfter()"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"next",
+				"nextAll	.nextAll()"
+			],
+			[
+				"text-dec",
+				"text-decoration"
+			],
+			[
+				"Tabul",
+				"TabulaRasa"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"fa",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"border-right",
+				"border-right-color"
+			],
+			[
+				"text-de",
+				"text-decoration-line"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"onmou",
+				"onmouseover	Attr"
+			],
+			[
+				"mouseo",
+				"mouseover	.mouseover()"
+			],
+			[
+				"onmo",
+				"onmouseenter	Attr"
+			],
+			[
+				"onmouse",
+				"onmouseenter	Attr"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"button",
+				"button_group	button_group"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"paddi",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/index.html",
+			"settings":
+			{
+				"buffer_size": 3513,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/assets/js/functions.js",
+			"settings":
+			{
+				"buffer_size": 782,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/build/css/main.css",
+			"settings":
+			{
+				"buffer_size": 8504,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 1078,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/assets/css/4-pages/_my-grid.sass",
+			"settings":
+			{
+				"buffer_size": 225,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/build/js/functions.js",
+			"settings":
+			{
+				"buffer_size": 162,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/.gitignore",
+			"settings":
+			{
+				"buffer_size": 334,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "scroll",
+		"selected_items":
+		[
+			[
+				"scroll",
+				"Snippet: Chervil Scrollbar"
+			],
+			[
+				"bacon",
+				"Snippet: ipsum - Bacon - Long paragraph"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"EDIT SN",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"SCROLLBAR",
+				"Snippet: Chervil Scrollbar (SASS)"
+			],
+			[
+				"scrollbar",
+				"Snippet: Chervil Scrollbar"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"beauti",
+				"HTMLBeautify"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"edit sni",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"set syntax ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"mate",
+				"Material Theme: Activate theme"
+			],
+			[
+				"set",
+				"Snippet: Test"
+			],
+			[
+				"mar inl",
+				"MarkdownEditing: New Inline Link"
+			],
+			[
+				"markdown",
+				"MarkdownEditing: New Inline Image"
+			],
+			[
+				"bor",
+				"Borat Ipsum"
+			],
+			[
+				"bacp",
+				"Snippet: ipsum - Bacon - Long paragraph"
+			],
+			[
+				"ipsum ",
+				"Snippet: ipsum - Mussum - Long paragraph"
+			],
+			[
+				"ipsum j",
+				"Snippet: Lorem Ipsum for Jade"
+			],
+			[
+				"ipsum",
+				"Snippet: ipsum - Mussum - Long paragraph <p>"
+			],
+			[
+				"hi",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"Ipsu",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"I",
+				"Borat Ipsum"
+			],
+			[
+				"hipster	",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"hip",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				" hip		",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"hips",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"borta",
+				"Borat Ipsum"
+			],
+			[
+				"snippet mak",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"LORE",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"make sn",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"edit",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"material",
+				"Material Theme: Configuration"
+			],
+			[
+				"twitch",
+				"Snippet: twitch-emotes"
+			],
+			[
+				"edit sn",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"modal",
+				"Snippet: modal"
+			],
+			[
+				"beautif",
+				"HTMLBeautify"
+			],
+			[
+				"tw",
+				"Snippet: Twitch memes for modal"
+			],
+			[
+				"twitc",
+				"Snippet: Twitch memes for modal"
+			],
+			[
+				"emot",
+				"Snippet: twitch-emotes"
+			],
+			[
+				"edit n",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"LICEN",
+				"Snippet: MIT License"
+			],
+			[
+				"readme",
+				"Snippet: README - default"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"SASS",
+				"SassBeautify"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: read	",
+				"Snippet: readonly"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"snippetmak	",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"mak",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"snippetma",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"snippet",
+				"Snippet: transition"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"materi	",
+				"Material Theme: Configuration"
+			],
+			[
+				"exclu",
+				"Snippet: Add project exclude patterns"
+			],
+			[
+				"exclude",
+				"Snippet: Add project exclude patterns"
+			],
+			[
+				"snippetm",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"Webki",
+				"Snippet: Webkit Scrollbar"
+			],
+			[
+				"SNIPPETMAK",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"package c",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"add rep",
+				"Package Control: Add Repository"
+			],
+			[
+				"css",
+				"Tag: Get CSS Classes"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggle li",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"maker",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"templ",
+				"Snippet:  Template (html+bootstrap+jquery)"
+			],
+			[
+				"snippetmake",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"snippet bea",
+				"Snippet: bear-emotes"
+			],
+			[
+				"bear	",
+				"Snippet: bear-emotes"
+			],
+			[
+				"twitch	",
+				"Snippet: twitch-memes"
+			],
+			[
+				"tabs",
+				"Snippet: tabs"
+			],
+			[
+				"bear",
+				"Snippet: bear-emotes"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: twi		",
+				"Snippet: twitch-memes"
+			],
+			[
+				"Snippet: twi",
+				"Snippet: twitch-memes"
+			],
+			[
+				"bootstr",
+				"Snippet: My Template (html+bootstrap+jquery)"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lor	",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"twit",
+				"Snippet: twitch-memes"
+			],
+			[
+				"Lorem	",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"tem",
+				"Snippet: My Template (html+bootstrap+jquery)"
+			],
+			[
+				"do	",
+				"Snippet: DOCTYPE HTML"
+			],
+			[
+				"carousel",
+				"Snippet: carousel"
+			],
+			[
+				"templat",
+				"Snippet: My Template (html+bootstrap+jquery)"
+			],
+			[
+				"start",
+				"Snippet: starter"
+			],
+			[
+				"nav",
+				"Snippet: navbar"
+			],
+			[
+				"Lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"navbar",
+				"Snippet: fixed_navbar"
+			],
+			[
+				"tempo",
+				"Snippet: My Template (html+bootstrap+jquery)"
+			],
+			[
+				"template",
+				"Snippet: Basic template"
+			],
+			[
+				"template	",
+				"Snippet: Basic template"
+			],
+			[
+				"navb",
+				"Snippet: navbar"
+			],
+			[
+				"doctem",
+				"Snippet: DOCTYPE HTML"
+			],
+			[
+				"doct",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"Snippet: twit",
+				"Snippet: twitch-emotes"
+			],
+			[
+				"lore	",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"scroll	",
+				"Snippet: .scroll()"
+			],
+			[
+				"sign",
+				"Snippet: sign-in"
+			],
+			[
+				"form",
+				"Snippet: <form>"
+			],
+			[
+				"input",
+				"Snippet: input - button"
+			],
+			[
+				"signu",
+				"Snippet: input_group"
+			],
+			[
+				"form	",
+				"Snippet: <form>"
+			],
+			[
+				"l",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"drop",
+				"Snippet: dropdown"
+			],
+			[
+				"lo	",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"carou",
+				"Snippet: carousel"
+			],
+			[
+				"L",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"l	",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"navbar ",
+				"Snippet: navbar"
+			],
+			[
+				"accordio",
+				"Snippet: accordion"
+			],
+			[
+				"cover",
+				"Snippet: cover"
+			],
+			[
+				"emotes",
+				"Snippet: pig-emotes"
+			],
+			[
+				"emotes	",
+				"Snippet: emotes"
+			],
+			[
+				"emote	",
+				"Snippet: emotes"
+			],
+			[
+				"snippetmak",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"blog",
+				"Snippet: blog"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"mport urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"expanded_folders":
+	[
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/assets",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/assets/css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/assets/css/1-tools",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/assets/css/2-basics",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/assets/css/3-modules",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/assets/css/4-pages",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/assets/img",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/assets/js"
+	],
+	"file_history":
+	[
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/minjs/functions.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/assets/css/main.css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/assets/css/4-pages/_example-page-home.sass",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/assets/build/main.css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/minjs/jquery-2.1.4.min.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/node_modules/gulp-autoprefixer/package.json",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/assets/css/main.sass",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-03/Parallax-on-the-Web-DevTips--0.2/css/layout1.sass",
+		"/C/Users/Bengal/AppData/Local/Temp/Rar$DIa0.013/functions.js",
+		"/C/Users/Bengal/AppData/Local/Temp/Rar$DIa0.018/layout1.sass",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/MeteorStream/client/main.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/MeteorStream/client/main.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Zahra/css/layout.css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/The SassQuatch Scoop/sass/styles.scss",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styles.styl",
+		"/C/Users/Bengal/AppData/Local/Temp/ai14743312941.tmp/preview.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Anthea.github.io/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/YouMustChoose/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Plugins/select2-master/select2-master/README.md",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Plugins/jquery.avgrund.js-master/README.md",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/jadeTemplate.sublime-snippet",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/react.sublime-snippet",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/htmltemplate.sublime-snippet",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/htmltemplate.sublime-snippet",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/index.jade",
+		"/C/Users/Bengal/AppData/Local/Temp/Rar$EXa0.124/Parallax-on-the-Web-DevTips--0.5/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-on-the-Web-DevTips--0.5/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-on-the-Web-DevTips--0.5/index.jade",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Zahra/css/normalize.css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Zahra/css/responsive.sass",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/The SassQuatch Scoop/sass/_mixins.scss",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-master/index.jade",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/JeffreyZammit.github.io/css/styles.css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/JeffreyZammit.github.io/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-master/js/functions.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-master/css/layout2.sass",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-master/css/layout1.sass",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Syntax themes/JSON.sublime-settings",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Zahra/JSON.sublime-settings",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-master/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/DevTips-ParallaxOnTheWeb-master/DevTips-ParallaxOnTheWeb-master/js/functions.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/DevTips-ParallaxOnTheWeb-master/DevTips-ParallaxOnTheWeb-master/css/layout1.sass",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-03/Parallax-on-the-Web-DevTips--0.2/index.jade",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-on-the-Web-DevTips--0.6/Parallax-on-the-Web-DevTips--0.6/index.jade",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Zahra/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-on-the-Web-DevTips--0.6/Parallax-on-the-Web-DevTips--0.6/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/DevTips-ParallaxOnTheWeb-master/DevTips-ParallaxOnTheWeb-master/index.jade",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/KaiserChefs.github.io/css/main.css",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Scrollbar.sublime-snippet",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Sassscrollbar.sublime-snippet",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/CSSscrollbar.sublime-snippet",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Zahra/css/style.css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Zahra/css/skeleton.css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Zahra Clothing/index.jade",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Jade.sublime-settings",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/DevTips-ParallaxOnTheWeb-master/DevTips-ParallaxOnTheWeb-master/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/KaiserChefs.github.io/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/todo.md",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/test.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/DevTips-ParallaxOnTheWeb-master/DevTips-ParallaxOnTheWeb-master/readme.html",
+		"/C/Users/Bengal/AppData/Local/Temp/Rar$EXa0.535/DevTips-ParallaxOnTheWeb-personal/index.html",
+		"/D/Users/Jeff/Downloads/DevTips-ParallaxOnTheWeb-personal/index.html",
+		"/D/Users/Jeff/Downloads/DevTips-ParallaxOnTheWeb-personal/index.jade",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/css/layout.sass",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/css/layout.css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/index.jade",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/js/scroll.js",
+		"/C/Users/Bengal/AppData/Local/Temp/Rar$DIa0.172/index.jade",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Sass.sublime-settings",
+		"/C/Users/Bengal/AppData/Local/Temp/Rar$DIa0.314/functions.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/scroll.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/css/styles.css",
+		"/C/Users/Bengal/AppData/Local/Temp/Rar$DIa0.857/readme.md",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Syntax themes/Jade.sublime-settings",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/css/style.scss",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/_sass/minima/_layout.scss",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Scss.sublime-settings",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Syntax themes/Scss.sublime-settings",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/CSS.sublime-settings",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/SASS (2).sublime-settings",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/JSON.sublime-settings",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/sublime-settings.sublime-settings",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/json.sublime-settings",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/css/layout.scss",
+		"/C/Users/Bengal/AppData/Local/Temp/Rar$EXa0.158/Skeleton-2.0.4/index.html",
+		"/C/Ruby23-x64/lib/ruby/gems/2.3.0/gems/minima-1.2.0/_layouts/default.html",
+		"/D/Users/Jeff/Downloads/readme.md",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/_site/css/main.css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/css/main.scss",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/CHANGELOG.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/README.md",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/gulp.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/CHANGELOG.md",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/_fonts.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/index.jade",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/clearfix.sublime-snippet",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Stylus.sublime-settings",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/The SassQuatch Scoop/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/typographic.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Backup/School Stuff/Uni/Third Year/Semester 2/Web Development for Business/Readme First.md",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/scrollbar.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/rupture.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/node_modules/rupture/index.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/node_modules/rupture/rupture/index.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/_placeholder.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/_interpolations.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/_colors.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/_functions.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/typographic.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/typographic/stylus/typographic.styl",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/loremJade.sublime-snippet",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/ShawnCauchi.github.io/readme.md",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/ShawnCauchi.github.io/LICENSE.md",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/index - Copy.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/gulp.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/node_modules/nib/lib/nib.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/_placeholders.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styles.css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/styles.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/css/styles.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/The SassQuatch Scoop/css/styles.css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/config.rb"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"styles",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"var",
+			"$",
+			"logo",
+			"50",
+			"200px",
+			"20",
+			"-hover",
+			"models",
+			"model",
+			"social-media",
+			"2s",
+			"C",
+			".large-window-1",
+			"8",
+			"45degree",
+			"3",
+			"6",
+			"3",
+			"2",
+			"hr",
+			".col-sm-6",
+			"634",
+			".image-gallery",
+			".img-group",
+			"image-gallery",
+			"img-group.",
+			"tether",
+			"tether#",
+			"images",
+			"group",
+			"gallery",
+			".img-group",
+			"clothes-pics",
+			".columns.four",
+			"/images/",
+			"'",
+			"placeholder",
+			"\\",
+			"stylus",
+			"xs",
+			"sass/",
+			"oants",
+			"css",
+			"mixin",
+			"gold",
+			"black",
+			"data-target",
+			"glyph",
+			"h3",
+			"transition",
+			"News",
+			"utf",
+			"p",
+			"100px",
+			"display: inline-block;",
+			"medium",
+			"-",
+			"circle",
+			"facebook",
+			"10px",
+			" 10px",
+			"60px",
+			"20px",
+			"5px",
+			"$color",
+			"color",
+			"paragraph-size",
+			"8",
+			"enter",
+			"10",
+			"Header",
+			"header",
+			"toggle_minimap",
+			"side_bar",
+			"toggle",
+			"toggle_",
+			"\"toggle_",
+			"\"toggle_minimap\"",
+			" \"command\": \"toggle_minimap\"",
+			" \"command\": \"toggle_minimap\"},",
+			"minimap",
+			"toggle",
+			"minimap",
+			"f3",
+			"f4",
+			"ctrl+shift+p",
+			"pallette",
+			"palette",
+			"circle1",
+			"test",
+			"transpose",
+			"shift+enter",
+			"ctrl+e",
+			"		\n",
+			"line",
+			"},\n",
+			"},",
+			" \"keys\": [\"ctrl+shift+alt+f5\"], \"command\": \"clear_bookmarks\" },",
+			"f2",
+			"pane",
+			"shift",
+			"alt",
+			"ctrl",
+			">\n",
+			"shift+f3",
+			"prev",
+			"insert",
+			"snippet",
+			"auto",
+			"complet",
+			"completi",
+			"complete",
+			"		<script type=\"text/javascript\" src=\"https://npmcdn.com/react@15.3.0/dist/react.min.js\"></script>",
+			"	<h1>About Me</h1>\n			<p>My Name is Jeffrey Zammit.I am 21 years old. I live in Malta, and am reading for a Bachelor of Commerce at the University of Malta. To supplement my formal education , I undertake several self-imposed projects alongside the typical University assignments.</p>\n",
+			"ctrl+alt+shift+d",
+			"ctrl+shift+d",
+			"position",
+			"invert_selection",
+			"}\n",
+			"h1",
+			"</html>",
+			"invert",
+			"ctrl+shift+l",
+			"ctrl+l",
+			"ctrl+n",
+			"ctrl+shift+m",
+			"overlay",
+			"hide"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Scoop",
+			"Jeffrey Zammit",
+			"Jeffrey",
+			">\n",
+			"position",
+			"}\n",
+			"slurp_find_string",
+			"expand_selection",
+			"expand_selection_to_paragraph",
+			"expand_selection",
+			"command",
+			"expand_selection",
+			"toggle_menu\" },\n	\n    ",
+			"    \n",
+			"w",
+			"url",
+			"Me",
+			"content: \" \"; /* Older browser do not support empty content */\n   v",
+			"ht: 0;\n   clea",
+			"t: 0;\n   clea",
+			"height",
+			"lay: block;\n   height:",
+			": ",
+			"background",
+			"react",
+			">",
+			"<",
+			"::-webkit-scrollbar-thumb:active",
+			"scrollbar",
+			"pig",
+			"-pig"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								271,
+								271
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										207,
+										211
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										207,
+										211
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/assets/js/functions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								779,
+								779
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										29,
+										30
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 575.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/build/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8490,
+								8490
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										8502,
+										8503
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										8158,
+										8159
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11402.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1078,
+								1078
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"syntax": "Packages/Seti_UI/icons/Langs/Gulpfile JS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/assets/css/4-pages/_my-grid.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 225,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										221,
+										221
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								219,
+								219
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"auto_indent": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/build/js/functions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								158,
+								158
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/.gitignore",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Seti_UI/icons/Langs/Git.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.54,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 32.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 152.0
+	},
+	"pinned_build_system": "Packages/User/Chrome.sublime-build",
+	"project": "grid.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packag",
+				"Package Control Messages"
+			],
+			[
+				"pi",
+				"C:\\Users\\Bengal\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Default (Windows).sublime-keymap"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Users\\Jeff\\Documents\\Personal Documents\\Personal\\Projects\\The Programming Project\\2016\\Github Projects\\Websites\\GridBoys\\Grid.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
