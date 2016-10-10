@@ -1,0 +1,2959 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wind",
+				"windowsize"
+			],
+			[
+				"perisco",
+				"periscope-1"
+			],
+			[
+				"large-w",
+				"large-window-1"
+			],
+			[
+				"scroll",
+				"scrollbar	Chervil Scrollbar (SASS)"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"back",
+				"background	styl"
+			],
+			[
+				"bg",
+				"background	styl"
+			],
+			[
+				"container",
+				"container-fluid	 styles.css"
+			],
+			[
+				"html",
+				"html5+bootstrap+jquery template	 Personal Template"
+			],
+			[
+				"ht",
+				"html5 Personal Template	 Web Template (html+bootstrap+jquery)"
+			],
+			[
+				"htm",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"border-radi",
+				"border-radius"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"video",
+				"video	<video>"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"pant",
+				"pantoneRGB:323C	PANTONE 323C (RGB)"
+			],
+			[
+				"backgound-cl",
+				"webkit-background-clip"
+			],
+			[
+				"include",
+				"include	+include - Sass syntax"
+			],
+			[
+				"clear",
+				"clearf	Clearfix"
+			],
+			[
+				"panto",
+				"pantoneHSL:316C	PANTONE 316C (HSL)"
+			],
+			[
+				"pantone",
+				"pantoneHSL:101C	PANTONE 101C (HSL)"
+			],
+			[
+				"af",
+				"after	 pseudo selector"
+			],
+			[
+				"pan",
+				"pantoneHSL:318C	PANTONE 318C (HSL)"
+			],
+			[
+				"panton",
+				"pantoneRGB:100C	PANTONE 100C (RGB)"
+			],
+			[
+				"license",
+				"license	MIT License"
+			],
+			[
+				"readme",
+				"readme	README - default"
+			],
+			[
+				"cty",
+				"ctypography	CSS.ctypography"
+			],
+			[
+				"rea",
+				"react-dom"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"vide",
+				"video	<video>"
+			],
+			[
+				"MARGI",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"backgrou",
+				"background-repeat"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"links",
+				"links	link - stylesheet"
+			],
+			[
+				"link",
+				"linki	link - icon"
+			],
+			[
+				"nav",
+				"navbar	navbar"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"bac",
+				"background-image: 〔property〕"
+			],
+			[
+				"Jeff",
+				"JeffreyZammit"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"Web",
+				"Webdev"
+			],
+			[
+				"Read",
+				"ReadingList"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"border-bottom",
+				"border-bottom-style"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"wr",
+				"writeHead"
+			],
+			[
+				"h2",
+				"h2	Tag"
+			],
+			[
+				"social",
+				"socialmedia"
+			],
+			[
+				"visib",
+				"visibility"
+			],
+			[
+				"scrollT",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"Shawn",
+				"ShawnCauchi"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"remov",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"divi",
+				"divider2"
+			],
+			[
+				"mouse",
+				"mouseenter〔function〕"
+			],
+			[
+				"Sl",
+				"SliderDrawings"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"siz",
+				"box-sizing"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"fo",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"TEXT",
+				"text-align"
+			],
+			[
+				"has",
+				"hasClass〔function〕"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"t",
+				"th	<th>"
+			],
+			[
+				"cor",
+				"correlate"
+			],
+			[
+				"r",
+				"round〔function〕"
+			],
+			[
+				"acces",
+				"accessoryspending"
+			],
+			[
+				"replace",
+				"replaceWith	.replaceWith()"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"prev",
+				"prevAll	.prevAll()"
+			],
+			[
+				"get",
+				"get	.get()"
+			],
+			[
+				"dbl",
+				"dblclick"
+			],
+			[
+				"mouseout",
+				"mouseout"
+			],
+			[
+				"widt",
+				"min-width"
+			],
+			[
+				"fadeT",
+				"fadeTo"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"remove",
+				"removeData	.removeData()"
+			],
+			[
+				"inse",
+				"insertAfter〔function〕"
+			],
+			[
+				"mouseleave",
+				"mouseleave"
+			],
+			[
+				"mouseov",
+				"mouseover"
+			],
+			[
+				"mouseent",
+				"mouseenter"
+			],
+			[
+				"mouselea",
+				"mouseleave"
+			],
+			[
+				"rem",
+				"removeClass〔function〕"
+			],
+			[
+				"wrap",
+				"wrapInner	.wrapInner()"
+			],
+			[
+				"insert",
+				"insertBefore	.insertBefore()"
+			],
+			[
+				"righ",
+				"padding-right"
+			],
+			[
+				"animation",
+				"animation-delay"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"g",
+				"get	$.get()"
+			],
+			[
+				"inser",
+				"insertAfter	.insertAfter()"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"next",
+				"nextAll	.nextAll()"
+			],
+			[
+				"text-dec",
+				"text-decoration"
+			],
+			[
+				"Tabul",
+				"TabulaRasa"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"fa",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"border-right",
+				"border-right-color"
+			],
+			[
+				"text-de",
+				"text-decoration-line"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"onmou",
+				"onmouseover	Attr"
+			],
+			[
+				"mouseo",
+				"mouseover	.mouseover()"
+			],
+			[
+				"onmo",
+				"onmouseenter	Attr"
+			],
+			[
+				"onmouse",
+				"onmouseenter	Attr"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"button",
+				"button_group	button_group"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"rotat",
+				"rotateY()"
+			],
+			[
+				"img",
+				"image:responsive	responsive"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.jade",
+			"settings":
+			{
+				"buffer_size": 7119,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/layout.sass",
+			"settings":
+			{
+				"buffer_size": 5386,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/scroll.js",
+			"settings":
+			{
+				"buffer_size": 2529,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/todo.md",
+			"settings":
+			{
+				"buffer_size": 1676,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/gulp.js",
+			"settings":
+			{
+				"buffer_size": 744,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/responsive.sass",
+			"settings":
+			{
+				"buffer_size": 417,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7238,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "doctype html\nhtml(lang=\"en\")\n  head\n    meta(charset=\"utf-8\")\n    title BlackBird Co.\n    meta(name=\"description\", content=\"\")\n    meta(name=\"author\", content=\"\")\n    meta(name=\"viewport\", content=\"width=device-width, initial-scale=1\")\n    link(rel=\"stylesheet\", href=\"css/style.css\")\n    link(rel=\"icon\", type=\"image/png\", href=\"images/favicon.png\")\n  \n  body\n    \n    header.bird-box\n      .back-bird\n      .logo\n      .fore-bird\n      \n    \n    section.content\n      \n      article\n        \n        h1 Clothing Store\n        \n        hr\n        \n        p Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.\n        \n        hr\n\n        .clothes-pics\n\n          .row.img-row\n            figure.columns.four\n              img(src=\"/images/model1.jpg\")\n              figcaption BlackBird Sweater - <strong>$135</strong>\n            \n            figure.columns.four\n              img(src=\"/images/model2.jpg\")\n              figcaption BlackBird Trousers - <strong>$135</strong>\n              \n            figure.columns.four\n              img(src=\"/images/model3.jpg\")\n              figcaption BlackBird Jacket - <strong>$135</strong>\n              \n          .row.img-row\n            figure.columns.four\n              img(src=\"/images/model2.jpg\")\n              figcaption BlackBird Trousers - <strong>$135</strong>\n              \n            figure.columns.four\n              img(src=\"/images/model3.jpg\")\n              figcaption BlackBird Jacket - <strong>$135</strong>\n              \n            figure.columns.four\n              img(src=\"/images/model1.jpg\")\n              figcaption BlackBird Sweater - <strong>$135</strong>\n          \n          .row.img-row\n            figure.columns.four\n              img(src=\"/images/model3.jpg\")\n              figcaption BlackBird Jacket - <strong>$135</strong>\n            \n            figure.columns.four\n              img(src=\"/images/model1.jpg\")\n              figcaption BlackBird Sweater - <strong>$135</strong>\n            \n            figure.columns.four\n              img(src=\"/images/model2.jpg\")\n              figcaption BlackBird Trousers - <strong>$135</strong>\n                \n        \n        h1 Clothing Store\n        \n        hr\n        \n        p Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.\n        \n        hr\n        \n        .large-window\n          .window-tint\n            .promo-text Fall Suits\n              strong <span>from</span> $99\n              a(href=\"\").window-cta Shop Now\n        \n        \n      div(style=\"height: 2000px\")\n\n    script(src=\"/js/jquery-2.1.3.min.js\")\n    script(src=\"/js/functions.js\")\n",
+			"file": "/C/Users/Bengal/AppData/Local/Temp/Rar$DIa0.439/index.jade",
+			"file_size": 3285,
+			"file_write_time": 130755154220000000,
+			"settings":
+			{
+				"buffer_size": 3285,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "// Base Styles\n\nbody\n  font-family: \"Open Sans\", sans-serif\n\nh1\n  color: #ccc\n  weight: 300\n\nfigure\n  margin: auto\n\n.content\n  article\n    padding: 100px 0\n    max-width: 640px\n    margin: 0 auto\n    text-align: center\n\nimg\n  max-width: 100%\n\n\n\n// Parallax\n\n.bird-box\n  position: relative\n  height: 600px\n  background:\n    image: url(/images/bird-bg.jpg)\n    size: auto 600px\n    position: top center\n    attachment: fixed\n  overflow: hidden\n\n.logo\n  height: 100px\n  width: 100%\n  background:\n    image: url(/images/black-bird-logo.svg)\n    position: center\n    repeat: no-repeat\n  position: absolute\n  top: 50%\n  margin-top: -50px\n\n.fore-bird\n  width: 960px\n  height: 733px\n  background:\n    image: url(/images/fore-bird.png)\n    repeat: no-repeat\n    position: right bottom\n  position: absolute\n  left: 50%\n  margin-left: -480px\n  top: 380px\n\n.back-bird\n  width: 960px\n  height: 298px\n  background:\n    image: url(/images/back-bird.png)\n    repeat: no-repeat\n    position: top left\n  position: absolute\n  left: 50%\n  margin-left: -480px\n\n\n\n// Model Grid\n\n.clothes-pics\n  margin-bottom: 100px\n\n  figure\n    margin-bottom: 20px\n    position: relative\n    opacity: 0\n    transform: translateX(20px)\n    transition: all 0.3s ease-in-out\n    overflow: hidden\n    cursor: pointer\n\n    &.is-showing\n      opacity: 1\n      transform: translateX(0px)\n\n    img\n      display: block\n      transform: scale(1)\n      transition: all 0.3s ease-in-out\n\n    &:hover\n      figcaption\n        left: 0%\n\n      img\n        transform: scale(1.1)\n\n  figcaption\n    position: absolute\n    bottom: 10px\n    left: -100%\n    background: black\n    color: white\n    padding: 2px 8px\n    font-size: 11px\n    transition: all 0.3s ease-in-out\n\n\n\n// large-window\n\n.large-window\n  height: 640px\n  background:\n    image: url(/images/model2.jpg)\n    position: center 0px\n    repeat: repeat-y\n    attachment: fixed\n  margin-top: 100px\n  border-radius: 50%\n  position: relative\n\n  .window-tint\n    background-color: rgba(0,0,0,0.5)\n    position: absolute\n    top: 0\n    left: 0\n    right: 0\n    bottom: 0\n    border-radius: 50%\n    display: flex\n    justify-content: center\n    align-items: center\n    opacity: 0\n\n\n  .promo-text\n    color: white\n    font-weight: 100\n    font-size: 50px\n    line-height: 1.2\n\n    strong\n      display: block\n      font-size: 30px\n\n    span\n      font:\n        weight: 300\n        size: 18px\n        style: italic\n      color: rgba(255,255,255,0.6)\n\n    .window-cta\n      font-size: 20px\n      text-decoration: none\n      color: white\n      border: 1px solid white\n      padding: 10px 20px\n      transition: all 0.3s ease-in-out\n\n      &:hover\n        background: white\n        color: black\n",
+			"file": "/C/Users/Bengal/AppData/Local/Temp/Rar$DIa0.016/layout1.sass",
+			"file_size": 2688,
+			"file_write_time": 130755154220000000,
+			"settings":
+			{
+				"buffer_size": 2688,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "$(window).scroll(function(){\n\n  var wScroll = $(this).scrollTop();\n\n  $('.logo').css({\n    'transform' : 'translate(0px, '+ wScroll /2 +'%)'\n  });\n\n  $('.back-bird').css({\n    'transform' : 'translate(0px, '+ wScroll /4 +'%)'\n  });\n\n  $('.fore-bird').css({\n    'transform' : 'translate(0px, -'+ wScroll /40 +'%)'\n  });\n\n  if(wScroll > $('.clothes-pics').offset().top - ($(window).height() / 1.2)) {\n\n    $('.clothes-pics figure').each(function(i){\n\n      setTimeout(function(){\n        $('.clothes-pics figure').eq(i).addClass('is-showing');\n      }, 150 * (i+1));\n    });\n\n  }\n\n  if(wScroll > $('.large-window').offset().top - $(window).height()){\n\n    $('.large-window').css({'background-position':'center '+ (wScroll - $('.large-window').offset().top) +'px'});\n\n    var opacity = (wScroll - $('.large-window').offset().top + 400) / (wScroll / 5);\n\n    $('.window-tint').css({'opacity': opacity});\n\n  }\n\n});\n",
+			"file": "/C/Users/Bengal/AppData/Local/Temp/Rar$DIa0.537/functions.js",
+			"file_size": 910,
+			"file_write_time": 130755154220000000,
+			"settings":
+			{
+				"buffer_size": 910,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem Ipsum for Jade"
+			],
+			[
+				"scroll",
+				"Snippet: Chervil Scrollbar"
+			],
+			[
+				"EDIT SN",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"SCROLLBAR",
+				"Snippet: Chervil Scrollbar (SASS)"
+			],
+			[
+				"scrollbar",
+				"Snippet: Chervil Scrollbar"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"beauti",
+				"HTMLBeautify"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"edit sni",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"set syntax ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"mate",
+				"Material Theme: Activate theme"
+			],
+			[
+				"set",
+				"Snippet: Test"
+			],
+			[
+				"mar inl",
+				"MarkdownEditing: New Inline Link"
+			],
+			[
+				"markdown",
+				"MarkdownEditing: New Inline Image"
+			],
+			[
+				"bor",
+				"Borat Ipsum"
+			],
+			[
+				"bacp",
+				"Snippet: ipsum - Bacon - Long paragraph"
+			],
+			[
+				"ipsum ",
+				"Snippet: ipsum - Mussum - Long paragraph"
+			],
+			[
+				"ipsum j",
+				"Snippet: Lorem Ipsum for Jade"
+			],
+			[
+				"ipsum",
+				"Snippet: ipsum - Mussum - Long paragraph <p>"
+			],
+			[
+				"hi",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"Ipsu",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"I",
+				"Borat Ipsum"
+			],
+			[
+				"hipster	",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"hip",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				" hip		",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"hips",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"borta",
+				"Borat Ipsum"
+			],
+			[
+				"snippet mak",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"LORE",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"make sn",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"edit",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"material",
+				"Material Theme: Configuration"
+			],
+			[
+				"twitch",
+				"Snippet: twitch-emotes"
+			],
+			[
+				"edit sn",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"modal",
+				"Snippet: modal"
+			],
+			[
+				"beautif",
+				"HTMLBeautify"
+			],
+			[
+				"tw",
+				"Snippet: Twitch memes for modal"
+			],
+			[
+				"twitc",
+				"Snippet: Twitch memes for modal"
+			],
+			[
+				"emot",
+				"Snippet: twitch-emotes"
+			],
+			[
+				"edit n",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"LICEN",
+				"Snippet: MIT License"
+			],
+			[
+				"readme",
+				"Snippet: README - default"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"SASS",
+				"SassBeautify"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: read	",
+				"Snippet: readonly"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"snippetmak	",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"mak",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"snippetma",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"snippet",
+				"Snippet: transition"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"materi	",
+				"Material Theme: Configuration"
+			],
+			[
+				"exclu",
+				"Snippet: Add project exclude patterns"
+			],
+			[
+				"exclude",
+				"Snippet: Add project exclude patterns"
+			],
+			[
+				"snippetm",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"Webki",
+				"Snippet: Webkit Scrollbar"
+			],
+			[
+				"SNIPPETMAK",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"package c",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"add rep",
+				"Package Control: Add Repository"
+			],
+			[
+				"css",
+				"Tag: Get CSS Classes"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggle li",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"maker",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"templ",
+				"Snippet:  Template (html+bootstrap+jquery)"
+			],
+			[
+				"snippetmake",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"snippet bea",
+				"Snippet: bear-emotes"
+			],
+			[
+				"bear	",
+				"Snippet: bear-emotes"
+			],
+			[
+				"twitch	",
+				"Snippet: twitch-memes"
+			],
+			[
+				"tabs",
+				"Snippet: tabs"
+			],
+			[
+				"bear",
+				"Snippet: bear-emotes"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: twi		",
+				"Snippet: twitch-memes"
+			],
+			[
+				"Snippet: twi",
+				"Snippet: twitch-memes"
+			],
+			[
+				"bootstr",
+				"Snippet: My Template (html+bootstrap+jquery)"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lor	",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"twit",
+				"Snippet: twitch-memes"
+			],
+			[
+				"Lorem	",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"tem",
+				"Snippet: My Template (html+bootstrap+jquery)"
+			],
+			[
+				"do	",
+				"Snippet: DOCTYPE HTML"
+			],
+			[
+				"carousel",
+				"Snippet: carousel"
+			],
+			[
+				"templat",
+				"Snippet: My Template (html+bootstrap+jquery)"
+			],
+			[
+				"start",
+				"Snippet: starter"
+			],
+			[
+				"nav",
+				"Snippet: navbar"
+			],
+			[
+				"Lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"navbar",
+				"Snippet: fixed_navbar"
+			],
+			[
+				"tempo",
+				"Snippet: My Template (html+bootstrap+jquery)"
+			],
+			[
+				"template",
+				"Snippet: Basic template"
+			],
+			[
+				"template	",
+				"Snippet: Basic template"
+			],
+			[
+				"navb",
+				"Snippet: navbar"
+			],
+			[
+				"doctem",
+				"Snippet: DOCTYPE HTML"
+			],
+			[
+				"doct",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"Snippet: twit",
+				"Snippet: twitch-emotes"
+			],
+			[
+				"lore	",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"scroll	",
+				"Snippet: .scroll()"
+			],
+			[
+				"sign",
+				"Snippet: sign-in"
+			],
+			[
+				"form",
+				"Snippet: <form>"
+			],
+			[
+				"input",
+				"Snippet: input - button"
+			],
+			[
+				"signu",
+				"Snippet: input_group"
+			],
+			[
+				"form	",
+				"Snippet: <form>"
+			],
+			[
+				"l",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"drop",
+				"Snippet: dropdown"
+			],
+			[
+				"lo	",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"carou",
+				"Snippet: carousel"
+			],
+			[
+				"L",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"l	",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"navbar ",
+				"Snippet: navbar"
+			],
+			[
+				"accordio",
+				"Snippet: accordion"
+			],
+			[
+				"cover",
+				"Snippet: cover"
+			],
+			[
+				"emotes",
+				"Snippet: pig-emotes"
+			],
+			[
+				"emotes	",
+				"Snippet: emotes"
+			],
+			[
+				"emote	",
+				"Snippet: emotes"
+			],
+			[
+				"snippetmak",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"blog",
+				"Snippet: blog"
+			],
+			[
+				"navba",
+				"Snippet: fixed_navbar"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"mport urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"file_history":
+	[
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Zahra/css/responsive.sass",
+		"/C/Users/Bengal/AppData/Local/Temp/Rar$EXa0.956/Parallax-on-the-Web-DevTips--0.5/index.html",
+		"/C/Users/Bengal/AppData/Local/Temp/Rar$DIa0.399/style.sass",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-03/Parallax-on-the-Web-DevTips--0.2/js/functions.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Node/SamsTeachYourself/server.js",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Node/ChatCat/package.json",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/build/js/functions.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/GridBoys/gulpfile.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-03/Parallax-on-the-Web-DevTips--0.2/css/layout1.sass",
+		"/C/Users/Bengal/AppData/Local/Temp/Rar$DIa0.013/functions.js",
+		"/C/Users/Bengal/AppData/Local/Temp/Rar$DIa0.018/layout1.sass",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/MeteorStream/client/main.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/MeteorStream/client/main.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Zahra/css/layout.css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/The SassQuatch Scoop/sass/styles.scss",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styles.styl",
+		"/C/Users/Bengal/AppData/Local/Temp/ai14743312941.tmp/preview.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Anthea.github.io/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/YouMustChoose/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Plugins/select2-master/select2-master/README.md",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Plugins/jquery.avgrund.js-master/README.md",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/jadeTemplate.sublime-snippet",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/react.sublime-snippet",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/htmltemplate.sublime-snippet",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/htmltemplate.sublime-snippet",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/index.jade",
+		"/C/Users/Bengal/AppData/Local/Temp/Rar$EXa0.124/Parallax-on-the-Web-DevTips--0.5/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-on-the-Web-DevTips--0.5/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-on-the-Web-DevTips--0.5/index.jade",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Zahra/css/normalize.css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/The SassQuatch Scoop/sass/_mixins.scss",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-master/index.jade",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/JeffreyZammit.github.io/css/styles.css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/JeffreyZammit.github.io/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-master/js/functions.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-master/css/layout2.sass",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-master/css/layout1.sass",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Syntax themes/JSON.sublime-settings",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Zahra/JSON.sublime-settings",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-master/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/DevTips-ParallaxOnTheWeb-master/DevTips-ParallaxOnTheWeb-master/js/functions.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/DevTips-ParallaxOnTheWeb-master/DevTips-ParallaxOnTheWeb-master/css/layout1.sass",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-03/Parallax-on-the-Web-DevTips--0.2/index.jade",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-on-the-Web-DevTips--0.6/Parallax-on-the-Web-DevTips--0.6/index.jade",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Zahra/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Parallax-on-the-Web-DevTips--0.6/Parallax-on-the-Web-DevTips--0.6/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/DevTips-ParallaxOnTheWeb-master/DevTips-ParallaxOnTheWeb-master/index.jade",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/KaiserChefs.github.io/css/main.css",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Scrollbar.sublime-snippet",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Sassscrollbar.sublime-snippet",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/CSSscrollbar.sublime-snippet",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Zahra/css/style.css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Zahra/css/skeleton.css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/Zahra Clothing/index.jade",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Jade.sublime-settings",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/DevTips-ParallaxOnTheWeb-master/DevTips-ParallaxOnTheWeb-master/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/KaiserChefs.github.io/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/todo.md",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/test.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/DevTips-ParallaxOnTheWeb-master/DevTips-ParallaxOnTheWeb-master/readme.html",
+		"/C/Users/Bengal/AppData/Local/Temp/Rar$EXa0.535/DevTips-ParallaxOnTheWeb-personal/index.html",
+		"/D/Users/Jeff/Downloads/DevTips-ParallaxOnTheWeb-personal/index.html",
+		"/D/Users/Jeff/Downloads/DevTips-ParallaxOnTheWeb-personal/index.jade",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/css/layout.sass",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/css/layout.css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/index.jade",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/js/scroll.js",
+		"/C/Users/Bengal/AppData/Local/Temp/Rar$DIa0.172/index.jade",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Sass.sublime-settings",
+		"/C/Users/Bengal/AppData/Local/Temp/Rar$DIa0.314/functions.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/scroll.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/css/styles.css",
+		"/C/Users/Bengal/AppData/Local/Temp/Rar$DIa0.857/readme.md",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Syntax themes/Jade.sublime-settings",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/css/style.scss",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/_sass/minima/_layout.scss",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Scss.sublime-settings",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Syntax themes/Scss.sublime-settings",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/CSS.sublime-settings",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/SASS (2).sublime-settings",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/JSON.sublime-settings",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/sublime-settings.sublime-settings",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/json.sublime-settings",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/css/layout.scss",
+		"/C/Users/Bengal/AppData/Local/Temp/Rar$EXa0.158/Skeleton-2.0.4/index.html",
+		"/C/Ruby23-x64/lib/ruby/gems/2.3.0/gems/minima-1.2.0/_layouts/default.html",
+		"/D/Users/Jeff/Downloads/readme.md",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/_site/css/main.css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/css/main.scss",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/CHANGELOG.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/AntheaZammit/README.md",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/gulp.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/CHANGELOG.md",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/_fonts.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/index.jade",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/clearfix.sublime-snippet",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Stylus.sublime-settings",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/The SassQuatch Scoop/index.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/typographic.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Backup/School Stuff/Uni/Third Year/Semester 2/Web Development for Business/Readme First.md",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/scrollbar.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/rupture.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/node_modules/rupture/index.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/node_modules/rupture/rupture/index.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/_placeholder.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/_interpolations.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/_colors.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/_functions.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/typographic.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/typographic/stylus/typographic.styl",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/C/Users/Bengal/AppData/Roaming/Sublime Text 3/Packages/User/loremJade.sublime-snippet",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/ShawnCauchi.github.io/readme.md",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/ShawnCauchi.github.io/LICENSE.md",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/index - Copy.html",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/gulp.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/node_modules/nib/lib/nib.js",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/_placeholders.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styles.css",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/stylus/styl/styles.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/css/styles.styl",
+		"/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/The SassQuatch Scoop/css/styles.css"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"styles",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"top",
+			"1",
+			"vertical",
+			"1",
+			"var",
+			"$",
+			"logo",
+			"50",
+			"200px",
+			"20",
+			"-hover",
+			"models",
+			"model",
+			"social-media",
+			"2s",
+			"C",
+			".large-window-1",
+			"8",
+			"45degree",
+			"3",
+			"6",
+			"3",
+			"2",
+			"hr",
+			".col-sm-6",
+			"634",
+			".image-gallery",
+			".img-group",
+			"image-gallery",
+			"img-group.",
+			"tether",
+			"tether#",
+			"images",
+			"group",
+			"gallery",
+			".img-group",
+			"clothes-pics",
+			".columns.four",
+			"/images/",
+			"'",
+			"placeholder",
+			"\\",
+			"stylus",
+			"xs",
+			"sass/",
+			"oants",
+			"css",
+			"mixin",
+			"gold",
+			"black",
+			"data-target",
+			"glyph",
+			"h3",
+			"transition",
+			"News",
+			"utf",
+			"p",
+			"100px",
+			"display: inline-block;",
+			"medium",
+			"-",
+			"circle",
+			"facebook",
+			"10px",
+			" 10px",
+			"60px",
+			"20px",
+			"5px",
+			"$color",
+			"color",
+			"paragraph-size",
+			"8",
+			"enter",
+			"10",
+			"Header",
+			"header",
+			"toggle_minimap",
+			"side_bar",
+			"toggle",
+			"toggle_",
+			"\"toggle_",
+			"\"toggle_minimap\"",
+			" \"command\": \"toggle_minimap\"",
+			" \"command\": \"toggle_minimap\"},",
+			"minimap",
+			"toggle",
+			"minimap",
+			"f3",
+			"f4",
+			"ctrl+shift+p",
+			"pallette",
+			"palette",
+			"circle1",
+			"test",
+			"transpose",
+			"shift+enter",
+			"ctrl+e",
+			"		\n",
+			"line",
+			"},\n",
+			"},",
+			" \"keys\": [\"ctrl+shift+alt+f5\"], \"command\": \"clear_bookmarks\" },",
+			"f2",
+			"pane",
+			"shift",
+			"alt",
+			"ctrl",
+			">\n",
+			"shift+f3",
+			"prev",
+			"insert",
+			"snippet",
+			"auto",
+			"complet",
+			"completi",
+			"complete",
+			"		<script type=\"text/javascript\" src=\"https://npmcdn.com/react@15.3.0/dist/react.min.js\"></script>",
+			"	<h1>About Me</h1>\n			<p>My Name is Jeffrey Zammit.I am 21 years old. I live in Malta, and am reading for a Bachelor of Commerce at the University of Malta. To supplement my formal education , I undertake several self-imposed projects alongside the typical University assignments.</p>\n",
+			"ctrl+alt+shift+d",
+			"ctrl+shift+d",
+			"position",
+			"invert_selection",
+			"}\n",
+			"h1",
+			"</html>",
+			"invert",
+			"ctrl+shift+l",
+			"ctrl+l"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Scoop",
+			"Jeffrey Zammit",
+			"Jeffrey",
+			">\n",
+			"position",
+			"}\n",
+			"slurp_find_string",
+			"expand_selection",
+			"expand_selection_to_paragraph",
+			"expand_selection",
+			"command",
+			"expand_selection",
+			"toggle_menu\" },\n	\n    ",
+			"    \n",
+			"w",
+			"url",
+			"Me",
+			"content: \" \"; /* Older browser do not support empty content */\n   v",
+			"ht: 0;\n   clea",
+			"t: 0;\n   clea",
+			"height",
+			"lay: block;\n   height:",
+			": ",
+			"background",
+			"react",
+			">",
+			"<",
+			"::-webkit-scrollbar-thumb:active",
+			"scrollbar",
+			"pig",
+			"-pig"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5764,
+								5764
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"is_xml": false,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/layout.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3223,
+								3223
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"auto_indent": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4477.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/scroll.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2529,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2029,
+								2029
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2029,
+										2030
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2011,
+										2012
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 936.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/todo.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								488,
+								488
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"is_xml": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/Users/Jeff/Documents/Personal Documents/Personal/Projects/The Programming Project/2016/Github Projects/Websites/StylusArt/gulp.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								744,
+								744
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "css/responsive.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2424,
+								2549
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2550,
+										2556
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2355,
+										2361
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1320.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Bengal/AppData/Local/Temp/Rar$DIa0.439/index.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2414,
+								2467
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Bengal/AppData/Local/Temp/Rar$DIa0.016/layout1.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2349,
+								2349
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3024.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/Bengal/AppData/Local/Temp/Rar$DIa0.537/functions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 910,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								649,
+								649
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										903,
+										904
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										647,
+										648
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.477313432835,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 32.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 152.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 152.0
+	},
+	"pinned_build_system": "Packages/User/Chrome.sublime-build",
+	"project": "Zahra.sublime-project",
+	"replace":
+	{
+		"height": 92.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packag",
+				"Package Control Messages"
+			],
+			[
+				"pi",
+				"C:\\Users\\Bengal\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Default (Windows).sublime-keymap"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Users\\Jeff\\Documents\\Personal Documents\\Personal\\Projects\\The Programming Project\\2016\\Github Projects\\Websites\\Zahra\\grid.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

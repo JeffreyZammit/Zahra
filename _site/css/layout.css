@@ -1,0 +1,73 @@
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #555555;
+  border-radius: 0;
+}
+::-webkit-scrollbar-thumb:active {
+  background: #232323;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #626262;
+  cursor: pointer;
+}
+
+::-webkit-scrollbar-track {
+  background: #a2a2a2;
+}
+
+header .bird-box {
+  position: relative;
+  height: 600px;
+  background-image: url(/assets/img/bird-bg.jpg);
+  background-size: auto 600px;
+  background-position: top center;
+  background-attachment: fixed;
+  overflow: hidden;
+}
+header .bird-box .logo {
+  height: 100px;
+  width: 100%;
+  background-image: url(/assets/img/black-bird-logo.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 50%;
+  margin-top: -50px;
+}
+header .bird-box .fore-bird {
+  width: 960px;
+  height: 733px;
+  background-image: url(/assets/img/fore-bird.png);
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  position: absolute;
+  left: 28%;
+  top: 380px;
+}
+header .bird-box .back-bird {
+  width: 960px;
+  height: 298px;
+  background-image: url(/assets/img/back-bird.png);
+  background-repeat: no-repeat;
+  background-position: top left;
+  position: absolute;
+  left: 2%;
+  margin-left: -480px;
+}
+header .container p {
+  font-size: 2.2em;
+}
+header .image-gallery figure {
+  margin: 20px;
+  position: relative;
+  opacity: 0;
+  transform: translateX(-20px);
+}
+header .image-gallery figure.is-showing {
+  opacity: 1;
+  transform: translateX(1);
+}
